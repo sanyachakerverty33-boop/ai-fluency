@@ -1,0 +1,6 @@
+{
+  "name": "College Event Management AI Assistant",
+  "description": "AI assistant for college event management, enabling students and administrators to discover events, register, sync with Google Calendar, and manage participant rosters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
